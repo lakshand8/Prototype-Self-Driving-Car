@@ -13,3 +13,4 @@ behaviours of a self-driving car. ANN based autonomous driving was successfully 
 despite the limitations of the Raspberry Pi’s computing power and the car’s mechanical
 shortcomings.
 
+![poster](https://github.com/lakshand8/Prototype-Self-Driving-Car/blob/master/Poster_CM_14148781_Lakshan_Dadigamuwa.png)
