@@ -17,9 +17,9 @@ This project still needs a lot of work to fully succeed and hopefully with the h
 
 Lastly, I would like to thank Zheng Wang AKA Hamuchiwa for his guides, support and the inspiration for this project and also Aleonnet for his help and support on some of the problems I faced throughout this project.
 
-Links:
-https://zhengludwig.wordpress.com/projects/self-driving-rc-car/
-https://github.com/hamuchiwa/AutoRCCar
-https://github.com/aleonnet/AutoRCCar-1 
+Links: <br />
+https://zhengludwig.wordpress.com/projects/self-driving-rc-car/ <br />
+https://github.com/hamuchiwa/AutoRCCar <br />
+https://github.com/aleonnet/AutoRCCar-1 <br />
 
 ![poster](https://github.com/lakshand8/Prototype-Self-Driving-Car/blob/master/Poster_CM_14148781_Lakshan_Dadigamuwa.png)
